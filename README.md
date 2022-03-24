@@ -7,7 +7,7 @@
 - Algorithms and data structures
 - Python development
 
-<br/> 
+
 🧠 常用技术栈: 
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -17,7 +17,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-<br/> 
 🧰 常用工具:  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
@@ -26,7 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<br/> 
 🤹‍♀️ 博客：    
 CSDN：https://blog.csdn.net/sshheennddee123?type=blog    
 知乎：https://www.zhihu.com/people/shen-de-ming-75
