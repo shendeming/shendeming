@@ -7,6 +7,7 @@
 - Algorithms and data structures
 - Python development
 
+<br/> 
 🧠 常用技术栈: 
 <div align="center">
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -18,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 </div>
 
+<br/> 
 🧰 常用工具:  
 <div align="center">
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -28,6 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 </div>
 
+<br/> 
 🤹‍♀️ 博客：    
 CSDN：https://blog.csdn.net/sshheennddee123?type=blog    
 知乎：https://www.zhihu.com/people/shen-de-ming-75
