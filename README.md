@@ -1,5 +1,5 @@
 ### Hi there 👋, I am shendeming. Welcome to my repositories.
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://github.com/shendeming/shendeming/background.png" /></div>
 
 💪 正在学习: 
 - Computer Vision and Object Detection
