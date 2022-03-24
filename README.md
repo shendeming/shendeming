@@ -8,7 +8,7 @@
 - Python development
 
 
-🧠 常用技术栈: 
+🧠 常用技术栈:    
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%2300599C.svg?style=flat-square&logo=django&logoColor=white)
@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-🧰 常用工具:  
+🧰 常用工具:      
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
